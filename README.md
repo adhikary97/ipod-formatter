@@ -74,6 +74,10 @@ ffmpeg -i "/path/to/your/input_video.mp4" \
 
 ---
 
+## Apple Music (Mac)
+
+Drag video into `Songs`, then it should show up under `Music Videos`. Once you see it there you can drag the video onto the iPod. Then just make sure you sync and it should show up under music videos.
+
 ## Notes
 
 - **Resolution:** Adjust `scale=WIDTH:HEIGHT` if you need a different video size.  
